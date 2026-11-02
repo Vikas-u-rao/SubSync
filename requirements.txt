@@ -1,0 +1,4 @@
+numpy>=1.26
+scipy>=1.11
+pyaudiowpatch>=0.2.12.9
+sounddevice>=0.5.0
